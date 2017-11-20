@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: UserTest
+Implementation-Version: 1.0.0
+Built-By: bander
+Implementation-Vendor-Id: com.user.test
+Build-Jdk: 1.8.0_31
+Implementation-URL: http://projects.spring.io/spring-boot/UserTest/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
